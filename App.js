@@ -4,12 +4,12 @@ import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 import FirstLogin from './src/views/firstLogin'
 import mobileLogin from './src/views/mobileLogin'
-/*123*/
+
 class DetailsScreen extends React.Component {
     render() {
         return (
             <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-                <Text>Details Screen</Text>
+                <Text>111Details Screen</Text>
             </View>
         );
     }
