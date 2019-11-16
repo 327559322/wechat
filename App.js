@@ -4,7 +4,7 @@ import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 import FirstLogin from './src/views/firstLogin'
 import mobileLogin from './src/views/mobileLogin'
-
+/*123*/
 class DetailsScreen extends React.Component {
     render() {
         return (
