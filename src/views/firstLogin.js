@@ -8,7 +8,7 @@ class FirstLogin extends Component {
             display:'none'
         },
     };
-    /*develop branch*/
+    /*master branch*/
     render() {
         return (
             <View style={styles.container}>
